@@ -64,12 +64,12 @@
     "slots" : [ ],
     "name" : "startTriaging"
   }, {
-    "id" : "haniawni:triageFinish",
+    "id" : "haniawni:triageDone",
     "type" : "registry",
-    "version" : "0.0.2",
+    "version" : "0.0.3",
     "language" : "en",
     "slots" : [ ],
-    "name" : "triageFinish"
+    "name" : "triageDone"
   }, {
     "id" : "haniawni:triageStatus",
     "type" : "registry",
